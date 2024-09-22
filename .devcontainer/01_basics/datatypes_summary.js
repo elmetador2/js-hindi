@@ -27,4 +27,19 @@ const myFunction=function () {
     console.log("hello world");
 }
 
+
+// ****************************
+
+//stac(primitive), heap(non-primitive)
+
+//stack=copy di jati hai
+//heap=refrence diya jata h
+
+let myyoutubename = "sharique240@"
+
+let anothername=myyoutubename
+anothername="chai or code"
+ console.log(myyoutubename);
+ console.log(anothername);
+ 
     
