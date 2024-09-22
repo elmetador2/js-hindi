@@ -1,1 +1,1 @@
-console.log("sharique")
+console.log("sharique")//to display output
