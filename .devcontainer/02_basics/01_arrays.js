@@ -17,6 +17,18 @@
  myArr.shift()
  const newArr= myArr.join()
  console.log(newArr);//output=>0,1,2,3,4,5 type=string
+
+ //slice, splice
+ console.log("A",myArr);
+ const myNewarr=myArr.slice(1,3)//output==>[1,2]
+
+ const myNewarr2=myArr.splice(1,3)//output==>[1,2,3] 
+ //splice manipulate the original array while slice didnt
+
+  
+ 
+
+
  
 
  
